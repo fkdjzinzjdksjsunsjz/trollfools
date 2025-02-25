@@ -36,4 +36,4 @@ This project is inspired by [Patched-TS-App](https://github.com/34306/Patched-TS
 
 ## License
 
-See [LICENSE](LICENSE).
+See [LICENSE](LICENSE).shzhbzhzz
